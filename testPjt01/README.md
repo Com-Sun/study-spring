@@ -2,5 +2,5 @@
 
 pom.xml: 메이븐 설정파일. 필요한 라이브러리를 연결하고, 빌드를 위한 플랫폼이다.
 
-src -main - java : 자바 파일이 있는 폴더
-resources: 자원을 관리하는 폴더. 스프링 설정 파일(XML) or 프로퍼티 파일 등을 관리한다.
+* src -main - java : 자바 파일이 있는 폴더
+* src- main -resources: 자원을 관리하는 폴더. 스프링 설정 파일(XML) or 프로퍼티 파일 등을 관리한다.
