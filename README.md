@@ -35,7 +35,7 @@ DI(Dependency injection): 객체를 만들어 외부에서 주입하는 방식.
 
 **Model1**
 
-![](D:\dev\eclipse\study-spring\spring\img\img/1.PNG)
+![](./img/img/1.PNG)
 
 모델 1의 경우: 브라우저로부터 받은 요청을 수행하는 모든 기능을 모듈화하지 않고 하나로 만듬.
 
@@ -44,7 +44,7 @@ DI(Dependency injection): 객체를 만들어 외부에서 주입하는 방식.
 
 Model2: 
 
-![](D:\dev\eclipse\study-spring\spring\img\img/2.PNG)
+![](./img/img/2.PNG)
 
 Controller, Service, DAO 모듈화. 
 * 서비스: 기능
